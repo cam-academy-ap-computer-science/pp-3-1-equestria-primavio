@@ -15,6 +15,6 @@ public class Equestria {
 		double step1_y = y2 - y1;
 		// step2 sq
 		// step3 add
-		double d = Math.sqrt(Math.pow(step1_x, 2) + Math.pow(step1_y, 2));
+		double d = Math.sqrt(Math.pow(step1_x, 2) + Math.pow(step1_y, 2);
 	}
 }
